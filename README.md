@@ -1,2 +1,11 @@
-"**Projecte de Prova**" 
-"_by Narcis_" 
+# Projecte de Prova
+
+Veiem
+
+* git
+
+* VueJs
+
+* APIs
+
+_by Narcis_
