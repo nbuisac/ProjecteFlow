@@ -15,6 +15,10 @@ Utilitzarem les subbranques:
 
 * ...
 
+## Afegim f1
+
+Creo la carpeta f1 amb alguns fitxers
+
 ## Afegim f2
 
 Creo fitxers en una nova carpeta `f2`
