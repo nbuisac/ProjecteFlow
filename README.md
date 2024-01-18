@@ -14,3 +14,7 @@ Utilitzarem les subbranques:
 * bugfix
 
 * ...
+
+## Afegim f2
+
+Creo fitxers en una nova carpeta `f2`
