@@ -1,0 +1,10 @@
+ El volumen de la unidad C es Win11ToGo
+ El n£mero de serie del volumen es: 726C-1CF8
+
+ Directorio de C:\daw\git\f2\ProjecteFlow\f2
+
+18/01/2024  17:36    <DIR>          .
+18/01/2024  17:36    <DIR>          ..
+18/01/2024  17:36                 0 a.txt
+               1 archivos              0 bytes
+               2 dirs  385.747.320.832 bytes libres
