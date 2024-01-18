@@ -14,3 +14,7 @@ Utilitzarem les subbranques:
 * bugfix
 
 * ...
+
+# f1
+
+Creo la carpeta f1 amb alguns fitxers
